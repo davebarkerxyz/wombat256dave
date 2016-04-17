@@ -2,7 +2,9 @@
 " Original Maintainer:  Lars H. Nielsen (dengmao@gmail.com)
 " Last Change:  2010-07-23
 "
-" Modified version of wombat for 256-color terminals by
+" Modified version of wombat256 by
+"   David Barker (david@dbark.co.uk)
+" based on modified version of wombat for 256-color terminals by
 "   David Liang (bmdavll@gmail.com)
 " based on version by
 "   Danila Bespalov (danila.bespalov@gmail.com)
@@ -16,7 +18,7 @@ if version > 580
 	endif
 endif
 
-let colors_name = "wombat256mod"
+let colors_name = "wombat256dave"
 
 
 " General colors
